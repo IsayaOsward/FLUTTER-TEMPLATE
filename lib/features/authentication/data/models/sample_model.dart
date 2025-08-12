@@ -5,8 +5,8 @@
 
 import 'package:json_annotation/json_annotation.dart';
 
-import '../../../../shared/data/default_page_model.dart';
-import '../../../../shared/data/default_response_model.dart';
+import '../../../../shared/data/models/default_page_model.dart';
+import '../../../../shared/data/models/default_response_model.dart';
 
 part 'sample_model.g.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
-import 'package:flutter_template/core/api_config/graphql/graphql_service.dart';
+import 'package:sgr_mobile/core/api_config/graphql/graphql_service.dart';
 import 'package:get_it/get_it.dart';
 
 import '../../features/authentication/data/services/auth_local_data_source.dart';
