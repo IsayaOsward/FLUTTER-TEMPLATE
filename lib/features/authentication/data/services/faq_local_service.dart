@@ -1,7 +1,7 @@
 // HAPA TUNATUNZA DATA LOCALLY NA KUFETCH FOR SPECIFIG FEATURE
 
-import 'package:flutter_template/core/injection/injection_container.dart';
-import 'package:flutter_template/core/storage/secure_storage_service.dart';
+import 'package:sgr_mobile/core/injection/injection_container.dart';
+import 'package:sgr_mobile/core/storage/secure_storage_service.dart';
 
 import '../models/sample_model.dart';
 import 'dart:convert';

@@ -1,4 +1,4 @@
-# flutter_template
+# sgr_mobile
 
 A new Flutter project.
 
